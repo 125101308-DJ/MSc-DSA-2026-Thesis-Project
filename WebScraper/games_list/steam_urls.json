@@ -1,6 +1,42 @@
 {
-    "Counter-Strike 2": "https://steamcommunity.com/app/730/discussions/0/",
-    "Helldivers 2": "https://steamcommunity.com/app/553850/discussions/0/",
-    "Dota 2": "https://steamcommunity.com/app/570/discussions/0/",
-    "Team Fortress 2": "https://steamcommunity.com/app/440/discussions/0/"
+    "Counter-Strike 2": { 
+        "url": "https://steamcommunity.com/app/730/discussions/0/",
+        "scrap": true
+    },
+    "Helldivers 2": {
+        "url": "https://steamcommunity.com/app/553850/discussions/0/",
+        "scrap": true
+    },
+    "Dota 2": {
+        "url": "https://steamcommunity.com/app/570/discussions/0/",
+        "scrap": true
+    },
+    "Team Fortress 2": {
+        "url": "https://steamcommunity.com/app/440/discussions/0/",
+        "scrap": true
+    },
+    "Terraria": {
+        "url": "https://steamcommunity.com/app/105600/discussions/0/",
+        "scrap": true
+    },
+    "Tom Clancy's Rainbow Six Siege": {
+        "url": "https://steamcommunity.com/app/359550/discussions/0/",
+        "scrap": true
+    },
+    "Marvel Rivals": {
+        "url": "https://steamcommunity.com/app/2767030/discussions/0/",
+        "scrap": true
+    },
+    "Dead by Daylight": {
+        "url": "https://steamcommunity.com/app/381210/discussions/0/",
+        "scrap": true
+    },
+    "Rocket League": {
+        "url": "https://steamcommunity.com/app/252950/discussions/0/",
+        "scrap": true
+    },
+    "Apex Legends": {
+        "url": "https://steamcommunity.com/app/1172470/discussions/0/",
+        "scrap": true
+    }
 }

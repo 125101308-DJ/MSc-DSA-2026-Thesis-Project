@@ -1,3 +1,23 @@
 {
-    "League of Legends": "https://www.reddit.com/r/leagueoflegends/new.rss"
+    "League of Legends": {
+        "url": "https://www.reddit.com/r/leagueoflegends/new.rss",
+        "scrap": true
+
+    },
+    "Minecraft": {
+        "url": "https://www.reddit.com/r/Minecraft/new.rss",
+        "scrap": true
+    },
+    "Fortnite": {
+        "url": "https://www.reddit.com/r/Fortnite/new.rss",
+        "scrap": true
+    },
+    "World of Warcraft": {
+        "url": "https://www.reddit.com/r/wow/new.rss",
+        "scrap": true
+    }, 
+    "Heros of the Storm": {
+        "url": "https://www.reddit.com/r/hots/new.rss",
+        "scrap": true
+    }
 }
